@@ -9,8 +9,8 @@ import (
 )
 
 // some parameter
-const banditAvailable = false
-const costConstraintAvailable = false
+const banditAvailable = true
+const costConstraintAvailable = true
 const path1Cost = 2.0 //cellular link
 const path3Cost = 0.2 //WiFi link
 const budget = 4
